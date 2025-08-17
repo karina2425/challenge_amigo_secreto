@@ -41,6 +41,4 @@ git clone https://github.com/karina2425/challenge_amigo_secreto.git
 
 🛠️ Tecnologías utilizadas
 
-HTML5
-CSS3
-JavaScript
+HTML5 , CSS3 ,JavaScript
